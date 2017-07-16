@@ -18,3 +18,7 @@ I'm really glad to help to our clients to design and build new solutions related
 ### My Biographical Notes
 
 Martin Stufi received the BSc, MSc degrees in computer science at the University of Niš, Serbia. He is currently studying doctoral academic studies at the University of Niš, Faculty of Electronic Engineering and he is working as Project Founder, Solution Architect and Technology Advisor in privately held company Solutia, s.r.o. in Prague, Czech Republic as entrepreneur. His research’s interests in computer science is in developing and implementing Enterprise Information Systems based on modern technology as Big Data, Spark & Scala, IoT, Project and Program Management. He is certified in PRINCE2®, ITILv3, TOGAF (L2), MCP and he is also holder of certificate in Project Management and Project Portfolio Managemen
+
+### Education
+- Master Degree - Master Of Science in Information Technology
+- PhD student
