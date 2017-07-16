@@ -7,7 +7,8 @@ subtitle: Why you'd want to go on a date with me
 I'm Big Data enthusiast living in Prague, Czech Republic
 
 
-##Interestied in
+###Interestied in
+
 System Integration, Project Management, Team Leadership, People Management, Technical Sales Support, Project Leader Software Deployment, Development of Database Applications, Solution Architect, Technical and Business Consulting addressing Expert to Executive level.
 
 Specialties: Government, Portal solutions, Integration Platform, Project Management based on PRINCE 2, PMBOK, System Integration, Security, Database Solution, Software Architecture, Software Development, Advanced Software Development, Big Data, Digital Transformation, IoT.
