@@ -11,7 +11,7 @@ I'm Big Data enthusiast living in Prague, Czech Republic
 
 System Integration, Project Management, Team Leadership, People Management, Technical Sales Support, Project Leader Software Deployment, Development of Database Applications, Solution Architect, Technical and Business Consulting addressing Expert to Executive level.
 
-Specialties: Big Data, Cloud, Software Development, Integration Platform, Project Management based on PRINCE 2, PMBOK, System Integration, Security, Database Solution, Software Architecture, Software Development, Advanced Software Development, Big Data, Digital Transformation, IoT.
+Specialties: Big Data, Cloud,Integration Platform, Project Management based on PRINCE 2, PMBOK, System Integration, Security, Database Solution, Software Architecture, Software Development, Advanced Software Development, Big Data, Digital Transformation, IoT.
 
 I'm really glad to help to our clients to design and build new solutions related with the new an complex technologies related through the implementation Cloud, Big Data, IoT.
 
