@@ -7,7 +7,7 @@ subtitle: Why you'd want to go on a date with me
 I'm Big Data enthusiast living in Prague, Czech Republic
 
 
-### Interestied in
+### Interested in
 
 System Integration, Project Management, Team Leadership, People Management, Technical Sales Support, Project Leader Software Deployment, Development of Database Applications, Solution Architect, Technical and Business Consulting addressing Expert to Executive level.
 
